@@ -1,4 +1,4 @@
-<h3 align="center">I am data analyst from India</h3>
+<h3 align="center">I am akash data analyst from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
